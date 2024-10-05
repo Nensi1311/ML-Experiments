@@ -33,3 +33,6 @@ Here are some of the key machine learning algorithms implemented in this reposit
 
 - k-Means Clustering
 - Principal Component Analysis (PCA)
+
+## Datasets Used
+Each dataset is preprocessed and used to train, validate, and test different models. The datasets are either publicly available or included directly in this repository (or via links if large).
