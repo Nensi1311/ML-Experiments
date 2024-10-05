@@ -7,9 +7,9 @@ There are three main types of ML:
 - Unsupervised Learning: The algorithm finds patterns in unlabeled data.
 - Reinforcement Learning: The algorithm learns by interacting with an environment and receiving feedback based on actions.
 
-This repository contains implementations of various machine learning algorithms applied to different datasets. It serves as a practical exploration of how different algorithms perform across diverse types of data.
-
 ## Repository Overview
+
+This repository contains implementations of various machine learning algorithms applied to different datasets. It serves as a practical exploration of how different algorithms perform across diverse types of data.
 This repository includes:
 
 - Code files for machine learning algorithms, implemented in Python.
