@@ -16,3 +16,20 @@ This repository includes:
 - Applications of algorithms on different datasets (included in the repository).
 - Detailed analysis of results and performance metrics for each algorithm and dataset.
 - Techniques used to preprocess data, train models, and evaluate results.
+
+## Algorithms Covered
+Here are some of the key machine learning algorithms implemented in this repository:
+
+1. Supervised Learning:
+
+- Linear Regression
+- Logistic Regression
+- Decision Trees
+- Support Vector Machines (SVM)
+- k-Nearest Neighbors (kNN)
+- Random Forest
+
+2. Unsupervised Learning:
+
+- k-Means Clustering
+- Principal Component Analysis (PCA)
