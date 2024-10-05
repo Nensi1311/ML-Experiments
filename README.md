@@ -1,4 +1,4 @@
-Welcome to the ML Algorithms Repository!
+# Welcome to the ML Algorithms Repository!
 
 Machine Learning (ML): is a branch of artificial intelligence (AI) that allows computers to learn from data and improve their performance over time without being explicitly programmed. In ML, computers use algorithms to find patterns in data and make predictions or decisions. 
 
